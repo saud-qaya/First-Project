@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a :hover{
+    text-decoration: none;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    padding: 15px 10px;
+    display: block;
+}
+
+#navbarimg{
+    height: 50px
+}
+
+
+.section h2.section-head{
+    color: rgb(82, 82, 190);
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+h3{
+    align-content: center;
+    font-size: medium;
+}
+
+#main{
+    border: 3px dashed darkblue;
+}
+
+#system{
+    border: 3px dashed darkblue;
+}
+
+#facility{
+    border: 3px dashed darkblue;
+}
+
+#contact{
+    border: 3px dashed darkblue;
+}
+
+body{
+    background-color: rgb(238, 243, 243);
+}
